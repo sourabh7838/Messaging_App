@@ -17,7 +17,8 @@ A modern messaging application built with React Native, featuring real-time chat
 
 ### Inbox Screen
 
-![All_Chats_Screenshot](https://github.com/user-attachments/assets/7e4414d5-93ae-47ad-9ec5-011a1a7553ba)
+<img width="172" alt="image" src="https://github.com/user-attachments/assets/9f707aa5-2408-428d-8e90-0ee08337f956" />
+
 
 - View all your conversations in a clean, modern interface
 - Each chat shows the last message and timestamp
@@ -25,11 +26,10 @@ A modern messaging application built with React Native, featuring real-time chat
 - Quick access to profile and new chat creation
 
 ### Chat Screen
-![Empty_Chat_screenshot](https://github.com/user-attachments/assets/58255fc4-95a0-443d-905b-c47180930849)
-![Friends_Directory_Screenshot](https://github.com/user-attachments/assets/2cf65cbe-5199-48a9-b025-14fcc8202c30)
-![Lakehead_Group_Screenshot](https://github.com/user-attachments/assets/daf627fd-2365-45ec-b4bc-8b72bb9d6c12)
-![Message_screenshot](https://github.com/user-attachments/assets/c66b7d29-75ed-4a41-82ad-10190ae0bc13)
-![Group_Screenshot](https://github.com/user-attachments/assets/f04ab681-5d50-41c1-8c59-2e9b268f9f70)
+<img width="148" alt="image" src="https://github.com/user-attachments/assets/3cd491a1-1039-4159-bbe0-164763480c18" />
+<img width="166" alt="image" src="https://github.com/user-attachments/assets/3f50b42a-65d7-4fad-a9d3-e62be708e25f" />
+<img width="147" alt="image" src="https://github.com/user-attachments/assets/0746414b-b78c-49b9-a250-e3934c07c896" />
+<img width="185" alt="image" src="https://github.com/user-attachments/assets/56046e0d-cbef-48a4-b010-9899b640fd2a" />
 
 - Real-time messaging interface
 - Message status indicators (sent, delivered, read)
@@ -38,7 +38,7 @@ A modern messaging application built with React Native, featuring real-time chat
 - Group chat support with member list
 
 ### Profile Screen
-![User_Profile_Screenshot](https://github.com/user-attachments/assets/26e546a2-68c6-42e8-8ab9-ef1097e0ed02)
+<img width="195" alt="image" src="https://github.com/user-attachments/assets/d3e600b8-7c83-409c-8cb0-3b2f90cbe4e7" />
 
 - Edit your profile information
 - Update profile picture
@@ -46,11 +46,10 @@ A modern messaging application built with React Native, featuring real-time chat
 - Set custom status message
 
 ### New Chat
-![All_Chats_Screenshot](https://github.com/user-attachments/assets/d55d80af-e6a2-419f-85c8-80a6ad352b21)
-![Create_New_Group_Screenshot](https://github.com/user-attachments/assets/933b6a84-bc02-4af2-a583-d480940bea85)
-![Contacts_Searching_Screeshot](https://github.com/user-attachments/assets/3b841411-c2ec-4903-ab7a-85e773b1c725)
-![Side_Bar_Screenshot](https://github.com/user-attachments/assets/265a7b07-7974-4c0b-b089-b0e07e15de58)
-
+<img width="172" alt="image" src="https://github.com/user-attachments/assets/e37ce7db-e36a-44ee-98c1-eb4f4673b359" />
+<img width="185" alt="image" src="https://github.com/user-attachments/assets/34c93007-acd1-4f07-98d1-f19c82f31c6b" />
+<img width="177" alt="image" src="https://github.com/user-attachments/assets/b8d1f6f1-5318-4cd7-ba7d-d8d48b27ad28" />
+<img width="216" alt="image" src="https://github.com/user-attachments/assets/66625d32-1289-419e-bc12-e770ca3060dd" />
 
 - Create individual or group chats
 - Create Important Directory
@@ -60,10 +59,9 @@ A modern messaging application built with React Native, featuring real-time chat
 
 ### Delete and Undo and Edit Chat Options
 
-![Undo_delete_message_screenshot](https://github.com/user-attachments/assets/a8e0d395-194b-4525-a075-b57a60d9cc9e)
-![Delete_Chats_Grourpscreenshot](https://github.com/user-attachments/assets/34917f2d-0a9e-49de-ba34-5b58e8e300b7)
-![Chat_delete_screenshot](https://github.com/user-attachments/assets/88ff23cd-c71e-416f-8603-d4571d0d9ac7)
-![Lakehead_Group_Screenshot](https://github.com/user-attachments/assets/6c0aa762-0363-41b6-93e0-77356ca89365)
+<img width="169" alt="image" src="https://github.com/user-attachments/assets/fc6e4b7e-3bf2-4bf6-9251-decb5750c7cd" />
+<img width="171" alt="image" src="https://github.com/user-attachments/assets/3b40b475-f46f-4e69-914c-6f5d7f6987d2" />
+<img width="148" alt="image" src="https://github.com/user-attachments/assets/ca212733-d05e-47be-9de7-1ad3be1b167a" />
 
 
 ## Project Structure
